@@ -15,9 +15,11 @@
 
 - 💬 Ask me about **react, socket.io, web developing, nodejs**
 
-- 📫 How to reach me **itsme@the747j.io**
+- 📫 How to reach me **the.george.747@gmail.com**
 
 - ⚡ Fun fact **In addition to programming, I also like to paint and beekeeping, activities totally unrelated to IT.**
+- 👨‍💻 My  C V are available at (https://github.com/the747](https://github.com/the747j/the747j/blob/main/CV-2023-Oct.pdf)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
